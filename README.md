@@ -36,6 +36,6 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-kartik2004&show_icons=true&locale=en" alt="hi-kartik2004" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hi-kartik2004&show_icons=true&locale=en" alt="hi-kartik2004" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hi-kartik2004&" alt="hi-kartik2004" /></p>
