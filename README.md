@@ -1,9 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
-)](https://rishavchanda.io
-)
 <h1 align="center">Hi 👋, I'm Kartikeya Saini</h1>
 <h3 align="center">Computer Science Undergrad|2 Star Codechef |Enthusiastic Programmer Cum Web developer| & Proud Geek</h3>
-(img align="right" alt="Coding" width="400" src="https://pin.it/2moY9UA")
+<img align="right" alt="Coding" width="400" src="https://pin.it/2moY9UA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-kartik2004&label=Profile%20views&color=0e75b6&style=flat" alt="hi-kartik2004" /> </p>
 
