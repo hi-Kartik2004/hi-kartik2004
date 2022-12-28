@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikeya Saini</h1>
 <h3 align="center">Computer Science Undergrad|2 Star Codechef |Enthusiastic Programmer Cum Web developer| & Proud Geek</h3>
-<img align="right" alt="Coding" width="400" src="[https://pin.it/2moY9UA](https://in.pinterest.com/pin/1119496419849190083/)">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-kartik2004&label=Profile%20views&color=0e75b6&style=flat" alt="hi-kartik2004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hi-kartik2004" alt="hi-kartik2004" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React Native**
