@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/medway-gif-27267727">
+
 - 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Full-stack Web Development projects**
