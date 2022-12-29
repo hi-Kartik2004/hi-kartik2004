@@ -2,7 +2,7 @@
 https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bca477735.jpg)
 
 
-<h1 align="center">Hi 👋, I'm Kartikeya Saini</h1>
+<h1 align="center">Hey there 👋, I'm Kartikeya Saini</h1>
 <h3 align="center" >Computer Science Undergrad|2 Star Codechef |Enthusiastic Programmer Cum Web developer| & Proud Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-kartik2004&label=Profile%20views&color=0e75b6&style=flat" alt="hi-kartik2004" /> </p>
