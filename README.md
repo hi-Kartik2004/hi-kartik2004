@@ -34,11 +34,13 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <br>
 
 # 📊 GitHub Stats:
-<div style="width:100%;">
-![](https://github-readme-stats.vercel.app/api?username=hi-kartik2004&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/> <br>
+
+<img
+     width=100%
+src="https://github-readme-stats.vercel.app/api?username=hi-kartik2004&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&custom_title=GitHub+Stats"><br/> <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hi-kartik2004&theme=merko&hide_border=false)<br/> <br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-  </div>
+  
 <br>
 
 
