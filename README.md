@@ -42,8 +42,11 @@ src="https://github-readme-stats.vercel.app/api?username=hi-kartik2004&count_pri
      width=100%
 src="https://github-readme-streak-stats.herokuapp.com?user=hi-kartik2004&theme=great-gatsby">
 </p>
+<img
+     width=100%
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&layout=compact&theme=great-gatsby">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&layout=compact&theme=great-gatsby)](https://github.com/shashankgurunaga1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&layout=compact&theme=great-gatsby)](https://github.com/hi-kartik2004/github-readme-stats)
 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hi-kartik2004&theme=merko&hide_border=false)<br/> <br>
