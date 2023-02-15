@@ -19,7 +19,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 - 📫 How to reach me **kudlu2004@gmail.com**
 
-- ⚡ Fun fact **I'm new to GitHub :)**
+- ⚡ Fun fact **I'm not new to GitHub :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
