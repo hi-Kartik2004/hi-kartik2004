@@ -48,6 +48,17 @@ src="https://github-readme-streak-stats.herokuapp.com?user=hi-kartik2004&theme=g
 <img
      width=100%
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&layout=compact&theme=great-gatsby">
+
+<br/>
+<br/>
+
+## 📈 Graph
+<p align="center">
+   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+</p>
+
+
+[![Kartikeya Saini GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hi-kartik2004&theme=github-compact)](https://github.com/hi-kartik2004/github-readme-activity-graph)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&layout=compact&theme=great-gatsby)](https://github.com/hi-kartik2004/github-readme-stats)
 
