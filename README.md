@@ -53,9 +53,8 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik200
 <br/>
 
 ## 📈 Graph
-<p align="center">
-   <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
-</p>
+![github-user-contribution](https://user-images.githubusercontent.com/111000515/220432569-ca9d83b1-57d5-49d4-8d75-658b03cfedfc.svg)
+
 
 
 [![Kartikeya Saini GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hi-kartik2004&theme=github-compact)](https://github.com/hi-kartik2004/github-readme-activity-graph)
