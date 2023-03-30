@@ -11,7 +11,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Full-stack Web Development projects**
 
