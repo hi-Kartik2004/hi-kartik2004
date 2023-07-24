@@ -15,7 +15,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 - 👯 I’m looking to collaborate on **Full-stack Web Development projects**
 
-- 💬 Ask me about **CPP, HTML, CSS, JS, PHP, MYSQL, React, Next js, firebase**
+- 💬 Ask me about **CPP, HTML, CSS, JS, PHP, MYSQL, React, Next js, Angular, firebase**
 
 - 📫 How to reach me **kudlu2004@gmail.com**
 
