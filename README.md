@@ -69,7 +69,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik200
 ## 📈 Graph
 ![github-user-contribution](https://user-images.githubusercontent.com/111000515/220432569-ca9d83b1-57d5-49d4-8d75-658b03cfedfc.svg)
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hi-kartik2004&bg_color=000000&color=f1ffa8&line=4e983a&point=5c995c&area=true&hide_border=true)](https://github.com/hi-Kartik2004/github-readme-activity-graph)
 
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&layout=compact&theme=great-gatsby)](https://github.com/hi-kartik2004/github-readme-stats)
