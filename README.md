@@ -52,9 +52,10 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 # 📊 GitHub Stats:
 
-<img
+
+<!-- <img
      width=100%
-src="https://github-readme-stats.vercel.app/api?username=hi-kartik2004&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&custom_title=GitHub+Stats&PAT_1"><br/> <br>
+src="https://github-readme-stats.vercel.app/api?username=hi-kartik2004&count_private=true&include_all_commits=true&show_icons=true&theme=great-gatsby&custom_title=GitHub+Stats&PAT_1"><br/> <br> -->
 <img
      width=100%
 src="https://github-readme-streak-stats.herokuapp.com?user=hi-kartik2004&theme=great-gatsby">
@@ -65,7 +66,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik200
 
 
 
-<!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&layout=compact&theme=great-gatsby)](https://github.com/hi-kartik2004/github-readme-stats)
 
 
