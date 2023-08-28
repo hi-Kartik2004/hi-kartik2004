@@ -66,13 +66,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik200
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&layout=compact&theme=great-gatsby)](https://github.com/hi-kartik2004/github-readme-stats)
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=hi-kartik2004&theme=merko&hide_border=false)<br/> <br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hi-kartik2004&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-  
-<br> -->
-
-
 
