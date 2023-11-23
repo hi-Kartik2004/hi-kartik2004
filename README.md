@@ -3,7 +3,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 
 
 <h1 align="center">Hey there 👋, I'm Kartikeya Saini</h1>
-<h3 align="center" >Computer Science Undergrad| 3 Star Codechef | Enthusiastic Programmer Cum Web developer | & Proud Geek</h3>
+<h3 align="center" >3rd Year Computer Science Undergrad | 3 Star Codechef | Enthusiastic Programmer Cum Web developer | Proud Geek</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hi-kartik2004&label=Profile%20views&color=0e75b6&style=flat" alt="hi-kartik2004" /> </p>
 
@@ -14,8 +14,6 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 - 🌱 I’m currently learning **Rust**
 
 - 👯 I’m looking to collaborate on **Full-stack Web Development projects**
-
-- 💬 Ask me about **CPP, HTML, CSS, JS, PHP, MYSQL, React, Next js, Angular, firebase**
 
 - 📫 How to reach me **kudlu2004@gmail.com**
 
