@@ -30,7 +30,7 @@ https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/79731568097599.5b50bc
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,docker,tailwind,js,css,html,php,mysql,git,github,figma,c,cpp,bootstrap,ubuntu,windows,firebase,vercel,postman,rust,vscode,webflow" />
+    <img src="https://skillicons.dev/icons?i=nextjs,react,docker,tailwind,firebase,prisma,js,css,html,php,mysql,git,github,figma,c,cpp,bootstrap,ubuntu,windows,postman,rust,vscode,webflow,ai,vercel,netlify" />
   </a>
 </p>
 	
